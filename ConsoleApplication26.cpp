@@ -178,7 +178,7 @@ int main()
 
 
 	//-7-
-	int size71 = 4, size72 = 4;
+	/*int size71 = 4, size72 = 4;
 	int** array71 = new int* [size71];
 	for (int i = 0; i < size71; i++) {
 		array71[i] = new int[size72];
@@ -202,7 +202,7 @@ int main()
 			cout << array71[i][j] << " ";
 		}
 		cout << endl;
-	}
+	}*/
 
 
 	//-8-
